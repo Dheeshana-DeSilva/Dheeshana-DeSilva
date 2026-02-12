@@ -26,6 +26,6 @@ I'm a **Software Engineering undergraduate** passionate about building practical
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 - [GitHub](https://github.com//Dheeshana-DeSilva)  
 - [LinkedIn](https://www.linkedin.com/in/dheeshana-de-silva2002)
