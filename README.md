@@ -1,4 +1,4 @@
-# Hi, I'm Dheeshana 👋
+# Hi, I'm Dheeshana De Silva
 
 I'm a **Software Engineering undergraduate** passionate about building practical, efficient solutions through code. Always eager to learn, collaborate, and gain real-world experience.
 
