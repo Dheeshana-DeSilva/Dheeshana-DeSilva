@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dheeshana 
 
-<!--
-**Dheeshana-DeSilva/Dheeshana-DeSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering undergraduate** passionate about building practical, efficient solutions through code. Always eager to learn, collaborate, and gain real-world experience.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Programming Languages:** Java, Kotlin, Python, JavaScript , C
+- **Web Development:** HTML, CSS, React  
+- **Mobile Development:** Android (Jetpack Compose & XML)  
+- **Databases:** SQL, SQLite, Room 
+- **Tools & Practices:** Git, GitHub, REST APIs, OOP, Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- [GitHub](https://github.com/Dheeshana-DeSilva)  
+- [LinkedIn](https://www.linkedin.com/in/dheeshana-de-silva2002/)
+
+## 📊 GitHub Stats
+![Dheeshana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+
