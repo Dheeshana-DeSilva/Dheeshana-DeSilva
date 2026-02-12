@@ -4,7 +4,7 @@ I'm a **Software Engineering undergraduate** passionate about building practical
 
 ---
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 
 | 🖥 Frontend | ⚙ Backend | 🧰 Databases & Tools |
 |------------|----------|---------------------|
@@ -13,7 +13,7 @@ I'm a **Software Engineering undergraduate** passionate about building practical
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dheeshana-DeSilva&show_icons=true&theme=tokyonight" />
