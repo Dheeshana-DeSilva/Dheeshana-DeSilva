@@ -16,16 +16,17 @@ I'm a **Software Engineering undergraduate** passionate about building practical
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dheeshana-DeSilva&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dheeshana-DeSilva&theme=tokyonight" />
+  
+  <img src="https://streak-stats.demolab.com?user=Dheeshana-DeSilva&theme=tokyonight&hide_border=true" alt="Dheeshana's GitHub Streak" width="80%"/>
 </p>
 
 
 ---
-
 ## Connect with me
-- [GitHub](https://github.com//Dheeshana-DeSilva)  
-- [LinkedIn](https://www.linkedin.com/in/dheeshana-de-silva2002)
+<p align="left">
+<a href="https://github.com/Dheeshana-DeSilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Dheeshana-DeSilva" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/dheeshana-de-silva2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheeshana-de-silva2002" height="30" width="40" /></a>
+</p>
+
+---
