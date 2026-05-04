@@ -1,32 +1,70 @@
-# Hi, I'm Dheeshana De Silva
+<div align="center">
 
-I'm a **Software Engineering undergraduate** passionate about building practical, efficient solutions through code. Always eager to learn, collaborate, and gain real-world experience.
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=Dheeshana%20De%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=turning%20ideas%20into%20working%20software%20⚡&descAlignY=60&descSize=15"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+Problem+Solver;Java+%7C+Spring+%7C+React+%7C+Node.js;Currently+building+%2B+learning+every+day" />
 
-## Skills & Technologies
-
-| 🖥 Frontend | ⚙ Backend | 🧰 Databases & Tools |
-|------------|----------|---------------------|
-| ![](https://skillicons.dev/icons?i=html,css,js,react,bootstrap) | ![](https://skillicons.dev/icons?i=nodejs,express,java,spring,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,aws,vscode,figma,canva) |
-
+</div>
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=Dheeshana-DeSilva&theme=tokyonight&hide_border=true" alt="Dheeshana's GitHub Streak" width="80%"/>
-</p>
-
+> 🎓 Software Engineering undergraduate who enjoys building real, usable things — not just things that look good in demos.  
+> Currently deepening expertise in full stack architecture, cloud basics, and writing cleaner code every day.
 
 ---
-## Connect with me
-<p align="left">
-<a href="https://github.com/Dheeshana-DeSilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Dheeshana-DeSilva" height="30" width="40" /></a>
-  
-<a href="https://www.linkedin.com/in/dheeshana-de-silva2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheeshana-de-silva2002" height="30" width="40" /></a>
-</p>
+
+## 🔧 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![](https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark)
+
+**Backend**
+
+![](https://skillicons.dev/icons?i=java,spring,nodejs,express,php&theme=dark)
+
+**Databases & DevOps**
+
+![](https://skillicons.dev/icons?i=mysql,mongodb,docker,aws,git&theme=dark)
+
+**Tools**
+
+![](https://skillicons.dev/icons?i=vscode,postman,figma,github,canva&theme=dark)
+
+</div>
 
 ---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dheeshana-DeSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="155"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Dheeshana-DeSilva&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="155"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+<a href="https://www.linkedin.com/in/dheeshana-de-silva2002">
+  <img src="https://img.shields.io/badge/LinkedIn-0f3460?style=flat-square&logo=linkedin&logoColor=38bdf8"/>
+</a>
+<a href="https://github.com/Dheeshana-DeSilva">
+  <img src="https://img.shields.io/badge/GitHub-0f3460?style=flat-square&logo=github&logoColor=38bdf8"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer&reversal=true"/>
+
+<sub>Open to internships, collaborations, and real-world projects. Let's build something meaningful.</sub>
+
+</div>
