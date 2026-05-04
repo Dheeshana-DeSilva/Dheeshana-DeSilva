@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=Dheeshana%20De%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=turning%20ideas%20into%20working%20software%20⚡&descAlignY=60&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=Dheeshana%20De%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=turning%20ideas%20into%20working%20software%20&descAlignY=60&descSize=15"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+Problem+Solver;Java+%7C+Spring+%7C+React+%7C+Node.js;Currently+building+%2B+learning+every+day" />
 
@@ -8,7 +8,7 @@
 
 ---
 
-> 🎓 Software Engineering undergraduate who enjoys building real, usable things — not just things that look good in demos.  
+> 🎓 Software Engineering undergraduate who enjoys building real, usable things , not just things that look good in demos.  
 > Currently deepening expertise in full stack architecture, cloud basics, and writing cleaner code every day.
 
 ---
