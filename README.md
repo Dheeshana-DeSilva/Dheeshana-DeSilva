@@ -6,10 +6,12 @@
 
 </div>
 
----
+![views](https://komarev.com/ghpvc/?username=Dheeshana-DeSilva&style=flat-square&color=38bdf8&label=profile+views)
+![open](https://img.shields.io/badge/Open%20to%20internships-38bdf8?style=flat-square&logoColor=white&logo=briefcase)
 
-> 🎓 Software Engineering undergraduate who enjoys building real, usable things , not just things that look good in demos.  
-> Currently deepening expertise in full stack architecture, cloud basics, and writing cleaner code every day.
+---
+ 🎓 Software Engineering undergraduate who enjoys building real, usable things , not just things that look good in demos.  
+ Currently deepening expertise in full stack architecture, cloud basics, and writing cleaner code every day.
 
 ---
 
@@ -47,18 +49,18 @@
 
 </div>
 
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=Dheeshana-DeSilva&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true)
+
 ---
 
 ## 🤝 Let's Connect
 
 <div align="center">
-<a href="https://www.linkedin.com/in/dheeshana-de-silva2002">
-  <img src="https://img.shields.io/badge/LinkedIn-0f3460?style=flat-square&logo=linkedin&logoColor=38bdf8"/>
-</a>
-<a href="https://github.com/Dheeshana-DeSilva">
-  <img src="https://img.shields.io/badge/GitHub-0f3460?style=flat-square&logo=github&logoColor=38bdf8"/>
-</a>
-
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f3460?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/dheeshana-de-silva2002)
+[![Email](https://img.shields.io/badge/Email-0f3460?style=flat-square&logo=gmail&logoColor=38bdf8)](mailto:your.dheeshanandesilva@gmail.com)
+ 
 </div>
 
 <div align="center">
