@@ -6,7 +6,6 @@
 
 </div>
 
-![views](https://komarev.com/ghpvc/?username=Dheeshana-DeSilva&style=flat-square&color=38bdf8&label=profile+views)
 ![open](https://img.shields.io/badge/Open%20to%20internships-38bdf8?style=flat-square&logoColor=white&logo=briefcase)
 
 ---
