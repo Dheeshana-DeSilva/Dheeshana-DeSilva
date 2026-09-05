@@ -9,8 +9,8 @@
 ![open](https://img.shields.io/badge/Open%20to%20internships-38bdf8?style=flat-square&logoColor=white&logo=briefcase)
 
 ---
- 🎓 Software Engineering undergraduate who enjoys building real, usable things , not just things that look good in demos.  
- Currently deepening expertise in full stack architecture, cloud basics, and writing cleaner code every day.
+ 🎓 Software Engineering undergraduate who enjoys building real, usable things, not just things that look good in demos.  
+ Currently deepening expertise in full-stack architecture, cloud basics, and writing cleaner code every day.
 
 ---
 
@@ -42,14 +42,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dheeshana-DeSilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="155"/>
-&nbsp;
+<!-- Changed to the official github-readme-stats instance -->
+
 <img src="https://streak-stats.demolab.com?user=Dheeshana-DeSilva&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="155"/>
 
 </div>
 
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=Dheeshana-DeSilva&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true)
 
 ---
 
@@ -58,7 +56,8 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f3460?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/dheeshana-de-silva2002)
-[![Email](https://img.shields.io/badge/Email-0f3460?style=flat-square&logo=gmail&logoColor=38bdf8)](mailto:your.dheeshanandesilva@gmail.com)
+<!-- Fixed the mailto typo here -->
+[![Email](https://img.shields.io/badge/Email-0f3460?style=flat-square&logo=gmail&logoColor=38bdf8)](mailto:dheeshanandesilva@gmail.com)
  
 </div>
 
